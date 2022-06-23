@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a basic todo application using react.js,there are three events or we cn say three options to set-up or manage your tasks.These events are running over two states the i created named as Task which is a array of tasks that i want to do and the other one is currTask which is a empty string in the beginning
 
 ## Available Scripts
 
